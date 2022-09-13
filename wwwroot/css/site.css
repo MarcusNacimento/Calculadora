@@ -1,0 +1,36 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.minha_classe{
+    font-weight:bold;/*Assim deixa em negrito*/
+    color:green;/*Define queo texto é verde*/
+    font-size:25px;/*Define tamanho da fonte*/
+}
+
+h4{
+    color:yellow;
+}
+
+h6 {
+    color: darkslategray;
+}
+
+.minha_classe2{
+    font-weight:bold;
+}
